@@ -152,7 +152,7 @@ nav{
     font-size: large;
 }
 .box{
-    background-image: linear-gradient(rgb(219, 213, 213),white);
+    background-image: linear-gradient(rgb(230, 223, 223),white);
     border-radius: 10px;
     padding:2px 30px 2px 30px;
 }
@@ -161,7 +161,7 @@ nav{
     font-weight: bold;
 }
 .peritem{
-    background-image: linear-gradient(90deg,rgb(218, 216, 216),white);
+    background-image: linear-gradient(270deg,#e7e3e3,white);
     padding:1px 10px 1px 10px;
     border-radius: 15px;
 }
@@ -433,7 +433,7 @@ color:  rgb(170, 169, 169);
 }
 .loader:before, .loader:after{
     content: '';
-    border:1em solid #d31616;
+    border:1em solid #0410b4;
 border-radius: 50%;
 width: inherit;
 height: inherit;
@@ -460,7 +460,7 @@ opacity: 0;
     }
 }
 .pt{
-    border-color: orange;
+    border-color: rgb(8, 164, 211);
     transition: $flow;
     &:hover{
         border: 2px solid rgb(66, 195, 255);

@@ -36,7 +36,7 @@ function loginController()
                     return next(err)
                     }
 
-                    return res.redirect(_getRedirectUrl(req))
+                    return res.redirect("/cart")   //_getRedirectUrl(req)
                 })
             })(req,res,next)
         },

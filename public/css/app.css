@@ -292,12 +292,12 @@ body {
 }
 
 .cart-logo {
-  background-color: #ff2626;
+  background-color: #0543c9;
   border-radius: 20px;
   transition: all 0.3s ease-in-out;
 }
 .cart-logo:hover {
-  background-color: #a00606;
+  background-color: #041b83;
 }
 
 .nav-icon {
@@ -306,7 +306,7 @@ body {
   transition: all 0.3s ease-in-out;
 }
 .nav-icon:hover {
-  color: #ff2626;
+  color: #0543c9;
 }
 
 #big {
@@ -315,7 +315,7 @@ body {
   font-weight: 800;
   word-spacing: 4px;
   letter-spacing: 1px;
-  color: #ff2626;
+  color: #0543c9;
 }
 
 #mainphoto {
@@ -329,13 +329,13 @@ body {
   font-weight: 800;
   word-spacing: 4px;
   letter-spacing: 1px;
-  color: #a00606;
+  color: #041b83;
 }
 
 .ordernow {
   display: inline-block;
-  border: 1px solid #ff2626;
-  background-color: #ff2626;
+  border: 1px solid #0543c9;
+  background-color: #0543c9;
   color: #fff;
   border-radius: 20px;
   word-spacing: 4px;
@@ -345,7 +345,7 @@ body {
 }
 .ordernow:hover {
   color: #fff;
-  background-color: #a00606;
+  background-color: #041b83;
   border: 1px solid #fff;
 }
 
@@ -385,13 +385,13 @@ body {
   padding-right: 9px;
   padding-bottom: 2px;
   text-align: center;
-  border: 2px solid #ff2626;
+  border: 2px solid #0543c9;
   border-radius: 16px;
-  color: #ff2626;
+  color: #0543c9;
   transition: all 0.3s ease-in-out;
 }
 .add-to-cart:hover {
-  background-color: #ff2626;
+  background-color: #0543c9;
   color: #fff;
 }
 .add-to-cart:focus {
@@ -406,7 +406,7 @@ nav {
   font-family: "Potta One", cursive;
   font-weight: bolder;
   font-size: larger;
-  color: #ff2626;
+  color: #0543c9;
 }
 
 .cartemp {
@@ -419,16 +419,16 @@ nav {
 }
 
 .main {
-  border: 2px solid #ff2626;
+  border: 2px solid #0543c9;
   border-radius: 25px;
   padding: 7px 10px 7px 10px;
-  background-color: #ff2626;
+  background-color: #0543c9;
   color: #fff;
   font-weight: bold;
   transition: all 0.3s ease-in-out;
 }
 .main:hover {
-  color: #ff2626;
+  color: #0543c9;
   background-color: #fff;
 }
 
@@ -438,7 +438,7 @@ nav {
 }
 
 .box {
-  background-image: linear-gradient(#dbd5d5, white);
+  background-image: linear-gradient(#e6dfdf, white);
   border-radius: 10px;
   padding: 2px 30px 2px 30px;
 }
@@ -449,7 +449,7 @@ nav {
 }
 
 .peritem {
-  background-image: linear-gradient(90deg, #dad8d8, white);
+  background-image: linear-gradient(270deg, #e7e3e3, white);
   padding: 1px 10px 1px 10px;
   border-radius: 15px;
 }
@@ -467,7 +467,7 @@ nav {
 .amount {
   font-size: larger;
   font-weight: bold;
-  color: #ff2626;
+  color: #0543c9;
 }
 
 .inputp {
@@ -488,8 +488,8 @@ nav {
 
 .subm {
   margin-top: 17px;
-  border: 1px solid #ff2626;
-  background-color: #ff2626;
+  border: 1px solid #0543c9;
+  background-color: #0543c9;
   text-align: center;
   color: white;
   padding: 3px 15px 3px 15px;
@@ -497,14 +497,14 @@ nav {
   transition: all 0.3s ease-in-out;
 }
 .subm:hover {
-  background-color: #a00606;
-  border: 1px solid #a00606;
+  background-color: #041b83;
+  border: 1px solid #041b83;
 }
 
 .log {
   font-size: xx-large;
   font-weight: bolder;
-  color: #ff2626;
+  color: #0543c9;
 }
 
 .fn {
@@ -520,24 +520,24 @@ nav {
 }
 
 #logb {
-  border: 2px solid #ff2626;
+  border: 2px solid #0543c9;
   padding: 2px 10px 2px 10px;
   width: 300px;
   margin-top: 10px;
   border-radius: 10px;
   text-align: center;
-  background-color: #ff2626;
+  background-color: #0543c9;
   color: white;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
 #logb:hover {
-  background-color: #a00606;
-  border: 2px solid #a00606;
+  background-color: #041b83;
+  border: 2px solid #041b83;
 }
 
 .boip {
-  border: 10px double #a00606;
+  border: 10px double #041b83;
   padding: 20px;
   padding-bottom: 25px;
   width: -webkit-fit-content;
@@ -561,7 +561,7 @@ nav {
 }
 
 .wrp {
-  border: 4px double #a00606;
+  border: 4px double #041b83;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
@@ -574,26 +574,26 @@ nav {
 .regis {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: xx-large;
-  color: #ff2626;
+  color: #0543c9;
   font-weight: bolder;
 }
 
 #su {
-  border: 2px solid #ff2626;
+  border: 2px solid #0543c9;
   padding: 2px 10px 2px 10px;
   height: 40px;
   width: 300px;
   margin-top: 10px;
   border-radius: 10px;
   text-align: center;
-  background-color: #ff2626;
+  background-color: #0543c9;
   color: white;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
 #su:hover {
-  background-color: #a00606;
-  border: 2px solid #a00606;
+  background-color: #041b83;
+  border: 2px solid #041b83;
 }
 
 .noty_theme__mint {
@@ -617,7 +617,7 @@ nav {
 }
 
 a.link {
-  color: #ff2626;
+  color: #0543c9;
 }
 
 .idsmall {
@@ -713,11 +713,11 @@ a.link {
 }
 
 .status-box ul li.current span:after {
-  background-color: #ff2626;
+  background-color: #0543c9;
 }
 
 .status-box ul li.current span {
-  color: #ff2626;
+  color: #0543c9;
 }
 
 .status-box ul li small {
@@ -745,7 +745,7 @@ a.link {
 
 .loader:before, .loader:after {
   content: "";
-  border: 1em solid #d31616;
+  border: 1em solid #0410b4;
   border-radius: 50%;
   width: inherit;
   height: inherit;
@@ -790,7 +790,7 @@ a.link {
   }
 }
 .pt {
-  border-color: orange;
+  border-color: #08a4d3;
   transition: all 0.3s ease-in-out;
 }
 .pt:hover {
